@@ -1,0 +1,37 @@
+.content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+    text-align: center;
+    width: 100%;
+    color: #000;
+  }
+  .content .title{
+    font-size: 40px;
+    font-weight: 700;
+  }
+  .content p{
+    font-size: 35px;
+    font-weight: 600;
+  }
+
+  .text
+{
+  position: absolute;
+  text-align: left;
+  color: #000;
+  top: 5%; 
+  left: 5%;
+  z-index: -1;
+  font-size: 30px;
+  text-align: left;
+  inline-size: 90%;
+  font-family: "https://fonts.googleapis.com/css?family=Roboto";
+}
+.text.heading
+{
+  font-size: 60;
+  font-weight: 800;  
+}
