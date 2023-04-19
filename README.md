@@ -34,7 +34,7 @@ Main Webpage
 </ul>
 </div>
 <div class="content">
-  <div class="title">Peter Dang's Personal Website</div> 
+  <div class="title">Peter Dang's Personal Website <br> Check for updates</div> 
 </body>
 <body style="background-color:aquamarine;"></body>
     
