@@ -1,3 +1,6 @@
+# PstormQT.github.io
+Main Webpage
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,7 +11,7 @@
 <head>
     <title>PstormQT Page</title>
     <meta charset="UTF-8">
-    <meta name="viewport" content="w5idth=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="topbar.css">
     <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
@@ -22,15 +25,14 @@
   <div class="wrapper">
     <ul>
       <li><a href="index.html">Home&nbsp;Page</a></li>
-      <li><a href="about.html">About&nbsp;me</a></li>
-      <li><a href="academic.html">Academic</a></li>
-      <li><a href="Fine-art.html">Fine&nbsp;Art</a></li>
-      <li><a href="Interest-hobby.html">Interest/hobby</a></li>
-      <li><a href="projects.html">Projects</a>&nbsp;</a></li>
-      <li><a href="Contanct-me.html">Contact&nbsp;Me</a></li>
+      <li><a hred="#">Academic</a></li>
+      <li><a href="#">Social</a></li>
+      <li><a href="#">Contant&nbsp;me</a></li>
 </ul>
 </div>
+<div class="content">
+  <div class="title">Peter Dang's Personal Website<br> Hello</div> 
+</body>
 <body style="background-color:aquamarine;"></body>
-<div class="text">PAGE IS WORK IN PROGRESS</div> 
     
 </html>
