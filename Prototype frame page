@@ -21,13 +21,13 @@
   <label for="active" class="close"></label>
   <div class="wrapper">
     <ul>
-        <li><a href="README.md">Home&nbsp;Page</a></li>
-        <li><a href="about.html">About&nbsp;me</a></li>
-        <li><a href="academic.html">Academic</a></li>
-        <li><a href="Fine-art.html">Fine&nbsp;Art</a></li>
-        <li><a href="Interest-hobby.html">Interest/hobby</a></li>
-        <li><a href="Projects.html">Projects</a>&nbsp;</a></li>
-        <li><a href="Contanct-me.html">Contact&nbsp;Me</a></li>5
+      <li><a href="index.html">Home&nbsp;Page</a></li>
+      <li><a href="about.html">About&nbsp;me</a></li>
+      <li><a href="academic.html">Academic</a></li>
+      <li><a href="Fine-art.html">Fine&nbsp;Art</a></li>
+      <li><a href="Interest-hobby.html">Interest/hobby</a></li>
+      <li><a href="projects.html">Projects</a>&nbsp;</a></li>
+      <li><a href="Contanct-me.html">Contact&nbsp;Me</a></li>
 </ul>
 </div>
 <body style="background-color:#000;"></body>

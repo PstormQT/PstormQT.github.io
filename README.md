@@ -29,7 +29,7 @@ Main Webpage
       <li><a href="academic.html">Academic</a></li>
       <li><a href="Fine-art.html">Fine&nbsp;Art</a></li>
       <li><a href="Interest-hobby.html">Interest/hobby</a></li>
-      <li><a href="Projects.html">Projects</a>&nbsp;</a></li>
+      <li><a href="projects.html">Projects</a>&nbsp;</a></li>
       <li><a href="Contanct-me.html">Contact&nbsp;Me</a></li>
 </ul>
 </div>
